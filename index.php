@@ -72,90 +72,17 @@
       <div id="lodging" class="row bg-orange pad60">
         <div class="row pad10-left">
           <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
-          <p class="text-white">A select number of rooms have been reserved at the following hotels. The group rates are valid until the cutoff dates listed or until all rooms have been booked, whichever comes first. We recommend securing your travel after registering for the conference, as August is a busy time in Madison.</p>
-          <div class="row bg-ddblue mar30-top">
-          <!-- Madison Concourse -->
-            <div class="col-sm-6">
-              <div class="row">
-                <img class="full" src="img/lodging/lodging-image-madison-concourse-01.png"/>
-              </div>
-              <div class="row pad30">
-                <h3><a href="https://www.concoursehotel.com/" target="_blank" class="text-white">Madison Concourse Hotel and Governor’s Club</a></h3>
-                <hr>
-                <ul class="disc text-lblue">
-                  <li>1 W Dayton St, Madison, WI 53703</li>
-                  <li>800-356-8293</li>
-                  <li>Group rate: <span class="text-white text-bold">$159/night</span></li>
-                  <li><a href="https://reservations.travelclick.com/6388?groupID=2541042#/guestsandrooms" target="_blank">Click here to make your reservation</a> (no code needed)</li>
-                  <li>Cutoff date: July 11, 2019</li>
-                </ul>
-              </div>
-            </div><!-- END: Madison Concourse -->
-          <!-- Union South Hotel -->
-            <div class="col-sm-6">
-              <div class="row">
-                <img class="full" src="img/lodging/lodging-image-union-hotel-01.png"/>
-              </div>
-              <div class="row pad30">
-                <h3><a href="https://union.wisc.edu/visit/stay-at-the-union/hotel-at-union-south/" target="_blank" class="text-white">Union South Hotel</a></h3>
-                <hr>
-                <ul class="disc text-lblue">
-                  <li>1308 W Dayton St, Madison, WI 53715</li>
-                  <li>608-263-2600</li>
-                  <li>Group rate: <span class="text-white text-bold">$160/night</span></li>
-                  <li><a href="https://union.wisc.edu/visit/stay-at-the-union/" target="_blank">Click here to make your reservation</a> using code <spna class="text-white text-bold">PLAYMAKE19</span></li>
-                  <li>Cutoff date: July 7, 2019</li>
-                </ul>
-              </div>
-            </div><!-- END: Union South Hotel -->
-
-          </div>
-        </div>
+          <p class="text-white">Please check back soon for 2020 details! </p>
       </div><!-- END: lodging -->
     <!-- Keynotes -->
     <div id="keynote"></div>
       <div class="row bg-white pad60">
         <div class="row pad10-left pad30-bot">
           <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle" aria-hidden="true"></i></span> Keynote Speakers</h2>
-        </div>
+         <p class="text-white">Please check back soon for the 2020 Keynote announcements!  </p>
 <!-- Details about 2018 keynotes commented out for reference when writing 2019 keynote descriptions.-->
       <!-- Kylie Peppler -->
-        <div class="row mar30-bot">
-          <div class="col-sm-4">
-            <div class="row pad10">
-              <img class="full" src="img/portraits/portrait-kylie-peppler.png" />
-            </div>
-          </div>
-          <div class="col-sm-8">
-            <div class="row pad10">
-              <h3 class="text-dblue">Kylie Peppler</h3>
-              <hr />
-              <p class="text-dblue">
-                An artist by training, Dr. Peppler is an Associate Professor of Informatics and Education at UC Irvine and engages in research that focuses on the intersection of arts, computational technologies and interest-driven learning. In addition to serving as the Director of the Creativity Labs, Dr. Peppler is the Chief Learning Officer at Collective Shift/LRNG, the former lead of the MacArthur Foundation’s Make-to-Learn initiative, and a member of the 2016 and 2017 National Educational Technology Plan Committee, sponsored by the U.S. Department of Education. Peppler was on the original NSF-sponsored Scratch team during the initial design and early study of the Scratch platform. Since this time, she has specialized in studying e-textile design with the LilyPad Arduino.
-                <br>
-                <br>
-                Dr. Peppler is the recipient of several recent awards, including Mira Tech Educator of the Year and an NSF Early CAREER recipient, as well as grants from the Spencer Foundation, Moore Foundation, and MacArthur Foundation, among others. Through this support, she has authored over 100 peer-reviewed publications, including the authoring or editing of more than 11 book publications. The most recent volumes include the <i>Makeology</i> series as well as the <i>The SAGE Encyclopedia of Out-of-School Learning</i>. Her current scholarly interests include theorizing how changing the tools and materials in today's learning environments can help broaden participation in STEM, particularly among women and other minoritized populations, as well as improve overall learning outcomes.
-              </p>
-            </div>
-          </div>
-        </div><!-- END: Kylie Peppler -->
-      <!-- Winnie Karanja -->
-        <div class="row mar30-bot">
-          <div class="col-sm-4">
-            <div class="row pad10">
-              <img class="full" src="img/portraits/portrait-winnie-karanja.png" />
-            </div>
-          </div>
-          <div class="col-sm-8">
-            <div class="row pad10">
-              <h3 class="text-dblue">Winnie Karanja</h3>
-              <hr />
-              <p class="text-dblue">
-                Winnie Karanja is the Founder and Executive Director of <a href="https://maydm.org/" target="_blank">Maydm</a>, an organization that equips girls and students of color with the technical skills and experiences to pursue opportunities in STEM. With her background in education and technology, Winnie is devoted to improving her community through STEM learning. Maydm hosts classes, workshops, and events with the goal of empowering students to follow their dreams. Winnie's new initiative, <a href="https://www.pioneerpossibilities.com/" target="_blank">Pioneer Possibilities</a>, brings learning to families' doorsteps, providing elementary aged students with packaged interactive learning experiences to build a foundation for STEM learning.
-              </p>
-            </div>
-          </div>
-        </div><!-- END: Winnie Karanja -->
+            
       <!-- Emery Petchauer 
         <div class="row mar30-bot">
           <div class="col-sm-4">
